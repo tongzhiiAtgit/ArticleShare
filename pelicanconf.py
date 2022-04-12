@@ -6,7 +6,8 @@ PATH = 'content'
 
 TIMEZONE = 'Etc/GMT-8'
 
-DEFAULT_LANG = 'Chinese (Simplified)'
+DEFAULT_LANG = 'zh_cn'
+THEME = "./elegant"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
